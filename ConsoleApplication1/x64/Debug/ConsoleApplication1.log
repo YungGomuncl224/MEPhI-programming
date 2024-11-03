@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\format(43): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\79258\OneDrive\Документы\GitHub\lab2\ConsoleApplication1\ConsoleApplication1\Shared_Pointer.h(22,12): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\79258\OneDrive\Документы\GitHub\lab2\ConsoleApplication1\ConsoleApplication1\Shared_Pointer.h(15,1): message : во время компиляции функции-члена класс шаблон "void my_shared_ptr<Data>::delete_ptr(void)"
+C:\Users\79258\OneDrive\Документы\GitHub\lab2\ConsoleApplication1\ConsoleApplication1\Shared_Pointer.h(73,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "void my_shared_ptr<Data>::delete_ptr(void)"
+C:\Users\79258\OneDrive\Документы\GitHub\lab2\ConsoleApplication1\ConsoleApplication1\FileName.cpp(85,30): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "my_shared_ptr<Data>"
+  ConsoleApplication1.vcxproj -> C:\Users\79258\OneDrive\Документы\GitHub\lab2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
